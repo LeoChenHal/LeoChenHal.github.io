@@ -1,6 +1,5 @@
 @font-face {
    font-family: 'webfont';
    font-display: swap;
-   src: url('/font/AmericanCaptain-MdEY.eot') format('embedded-opentype'),
-        url('/font/AmericanCaptain-MdEY.eot');
+   src: url('font.ttf') format('truetype');
 }
