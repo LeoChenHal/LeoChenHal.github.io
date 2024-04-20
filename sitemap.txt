@@ -1,8 +1,8 @@
-http://example.com/posts/d95d7e09.html
-http://example.com/posts/4a17b156.html
-http://example.com/imageSouce/test.json
-http://example.com/imageSouce/index.html
-http://example.com/link/index.html
-http://example.com/tags/index.html
-http://example.com/categories/index.html
-http://example.com/
+http://leochenhal.github.io/posts/d95d7e09.html
+http://leochenhal.github.io/posts/4a17b156.html
+http://leochenhal.github.io/imageSouce/test.json
+http://leochenhal.github.io/imageSouce/index.html
+http://leochenhal.github.io/link/index.html
+http://leochenhal.github.io/tags/index.html
+http://leochenhal.github.io/categories/index.html
+http://leochenhal.github.io/
